@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Алексей](https://up.htmlacademy.ru/javascript/32/user/2518365).
-* Наставник: `Неизвестно`.
+* Студент: [Алексей Киселев](https://up.htmlacademy.ru/javascript/32/user/2518365).
+* Наставник: [Дмитрий Беллавин](https://htmlacademy.ru/profile/bellavin).
 
 ---
 
